@@ -1,9 +1,10 @@
-
 <p align="center">
-  <img width="4562" height="306" alt="Hacker-Barracks-logo" src="https://github.com/user-attachments/assets/da57545f-97e3-4775-a69a-072dd07f6461" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" <img width="2304" height="1728" alt="Hacker Barracks glitch no background White" src="https://github.com/user-attachments/assets/ee78af2a-6040-4021-a2a3-6413c172b56c" />
+    <img width="4562" height="306" alt="Hacker-Barracks-logo" src="https://github.com/user-attachments/assets/da57545f-97e3-4775-a69a-072dd07f6461" />
+  </picture>
 </p>
 <h3 align="center">Python Labs</h3>
- 
 <p align="center">
   Learn Python from zero, one mission at a time.
 </p>
