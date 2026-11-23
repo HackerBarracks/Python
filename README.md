@@ -1,10 +1,12 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ee78af2a-6040-4021-a2a3-6413c172b56c">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e67169bf-c2b8-4011-8f45-4b611c80afb7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/da57545f-97e3-4775-a69a-072dd07f6461">
     <img src="https://github.com/user-attachments/assets/da57545f-97e3-4775-a69a-072dd07f6461" alt="Hacker Barracks" width="720">
   </picture>
 </p>
 <h3 align="center">Python Labs</h3>
+ 
 <p align="center">
   Learn Python from zero, one mission at a time.
 </p>
@@ -92,8 +94,6 @@ Here's how the repository is laid out:
  
 ```
 python-labs/
-├── assets/
-│   └── hacker-barracks-logo.png
 ├── lab-1/
 │   ├── README.md        ← the briefing for this lab
 │   ├── mission1.py
