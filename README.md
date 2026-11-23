@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="assets/hacker-barracks-logo.png" alt="Hacker Barracks" width="720">
+  <img width="4562" height="306" alt="Hacker-Barracks-logo" src="https://github.com/user-attachments/assets/da57545f-97e3-4775-a69a-072dd07f6461" />
 </p>
 <h3 align="center">Python Labs</h3>
  
