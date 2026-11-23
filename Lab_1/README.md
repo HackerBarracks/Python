@@ -27,16 +27,16 @@ Method	A function that belongs to a specific kind of value. You call it with a d
 Comment	A line starting with #. Python ignores comments completely, so they are notes for humans.
 Setting Up: What Your Folder Should Look Like
 
-The lab says task1.py and task2.py should be opened, which means they probably already exist in the repository your instructor gave you. You create the rest yourself. By the end, your Codespace folder should look like this:
+By the end, your Codespace folder should look like this:
 
 your-lab1-repo/
 ├── task1.py      ← already provided (you fill it in)
-├── task2.py      ← already provided (you fill it in)
-├── task3.py      ← you create this
-├── task4.py      ← you create this
-├── task5.py      ← you create this
-├── task6.py      ← you create this
-└── task7.py      ← you create this (see the note in Task 7 about the name)
+├── task2.py      ← 
+├── task3.py      ← 
+├── task4.py      ← 
+├── task5.py      ← 
+├── task6.py      ← 
+└── task7.py      ← (see the note in Task 7 about the name)
 
 To make a new file in Codespaces, right-click in the file explorer on the left and choose New File. Then type the full name, including .py.
 
